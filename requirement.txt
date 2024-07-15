@@ -1,0 +1,14 @@
+name: fraud-detection
+channels:
+  - Microsoft
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - python
+  - scikit-learn
+  - seaborn
+  - xgboost
+  - imbalanced-learn
+prefix: C:\Users\Louis\.conda\envs\fraud-detection
